@@ -1,0 +1,6 @@
+name,sha256,extension,modified_date,suspicious_strings,encoding,num_text_sections,num_custom_sections
+7z2409-x64.exe,bdd1a33de78618d16ee4ce148b849932c05d0015491c34887846d431d29f308e,.exe,2025-03-31 14:16:28,1,0,1,0
+PhotoScapeSetup_V3-7.exe,dd37f4ea7133c48f5181b2d0b9ead52fb05cf64bd4180eb35cb1530e4aac3ce4,.exe,2025-03-31 14:19:31,1,0,1,0
+putty.exe,16cbe40fb24ce2d422afddb5a90a5801ced32ef52c22c2fc77b25a90837f28ad,.exe,2025-03-31 14:17:02,1,0,1,1
+utorrent_installer.exe,9acaa95faee3dd4328feaf52a593aaf1cec11d6e33d10f78a4a77abaca34851e,.exe,2025-03-31 14:11:51,1,0,1,0
+vlc-3.0.21-win64.exe,9742689a50e96ddc04d80ceff046b28da2beefd617be18166f8c5e715ec60c59,.exe,2025-03-31 14:10:16,1,0,1,0
