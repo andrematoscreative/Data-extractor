@@ -8,4 +8,5 @@ Features a ser retirados do ficheiro. (Grupo 2)
 6. Num de seccoes personalizadas (INT)
 
 
-Resumo dos papers no /papers. Até 300 palavras.
+
+Resumo dos papers no /papers. Até 300 palavras por artigo.
